@@ -8,3 +8,7 @@ Project 2 Keywords: K-mean clustering, PCA, unsupervised machine learning classi
 
 # Project3 File name: Customer-Data-Analytics-and-Engagements and predictions
 Project 3 Keywords: customer segmentation, exploratory analysis, regression analysis, decision tree analysis
+
+# RepeatedCustomers-TimeSeries-Analysis-Predictions-and-Forecasting-using-AR-and-BIC
+
+Project 3 keywords: Autoregressive model, forecasting, product and customers analytics
