@@ -11,4 +11,4 @@ Project 3 Keywords: customer segmentation, exploratory analysis, regression anal
 
 # RepeatedCustomers-TimeSeries-Analysis-Predictions-and-Forecasting-using-AR-and-BIC
 
-Project 3 keywords: Autoregressive model, forecasting, product and customers analytics
+# Project 3 keywords: Autoregressive model, forecasting, product and customers analytics
