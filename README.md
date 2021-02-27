@@ -5,7 +5,7 @@ Project 1 Keywords: loan dataset, loan defaulters classification, decision tree,
 # Project2 File name: PCA-and-KMean-Clustering-Methods-for-Profession-Classifications - Unsupervised Learning
 Project 2 Keywords: K-mean clustering, PCA, unsupervised machine learning classification
 
-# Project3 File name: Customer-Data-Analytics-and-Engagements and predictions
+# Project3 File name: https://github.com/nd-nyah/Predictions-Recommendations-and-Forecasting--Repository/blob/main/Customer-DataAnalytics-Engagements-and-Predictions.ipynb
 Project 3 Keywords: customer segmentation, exploratory analysis, regression analysis, decision tree analysis, analystics and visualisations
 
 # Project4 File Name: RepeatedCustomers-TimeSeries-Analysis-Predictions-and-Forecasting-using-AR-and-BIC
