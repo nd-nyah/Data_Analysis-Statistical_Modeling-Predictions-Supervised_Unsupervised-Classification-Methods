@@ -14,6 +14,6 @@ Project 4 Keywords: customer segmentation, exploratory analysis, summations and 
 # Project5 File Name: Explainable Product Recommender and Workflow Processes.ipynb
 Project 5 keywords: Explainable Product Recommender, Workflow Processes, cosine similarity, analytics and visualisations
 
-# Project6 File Name: DecisionTreePredictor.py
+# Project6 File Name: DecisionTreePredictor.py and Dockerfile
 Project 6 keywords: mean strategy missing value imputation, decision tree regressor, absolute mean error, histogram data distribution visualisations, joblib model saving,
 textfile output, interquartile range data standardization
